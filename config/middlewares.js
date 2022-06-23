@@ -14,7 +14,7 @@ module.exports = [
     config: {
       enabled: true,
       header: '*',
-      origin: ['http://localhost:3000','http://localhost:1337','https://nextjsstrapi.herokuapp.com']
+      origin: ['http://localhost:3000','http://localhost:1337','https://smiple-ecommerce-strapi.herokuapp.com']
     }
   }
 ];
